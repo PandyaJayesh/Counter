@@ -8,31 +8,26 @@ A simple Android counter app using **Kotlin** and **Fragments** to demonstrate U
 - Uses **fragments** for better modularity
 
 ## Screenshots
-![Counter App Screenshot](https://via.placeholder.com/400)
+![Counter App Screenshot](Screenshots/Screenshot_20250326-230907_Counter.jpg)
+![Counter App Screenshot](Screenshots/Screenshot_20250326-230921_Counter.jpg)
+![Counter App Screenshot](Screenshots/Screenshot_20250326-230932_Counter.jpg)
 
 ## Installation
 
-Download *.apk* file from  ***app->build->outputs->apk->debug->app-debug.apk*** 
-1. Open in **Android Studio**
-2. Build and run on an **Android device/emulator**
+Download *.apk* file from [Here](https://github.com/PandyaJayesh/Counter/tree/main/app/release).
 
 ## File Structure
 ```plaintext
 app/
 │── MainActivity.kt
-│── fragments/
-│   ├── CounterFragment.kt
-│   ├── HistoryFragment.kt (Optional)
+│
 │── res/layout/
 │   ├── activity_main.xml
-│   ├── fragment_counter.xml
-│   ├── fragment_history.xml (Optional)
+
 ```
 
-## Dependencies
-- **AndroidX Fragment**
-- **Kotlin**
+🎯 Contributors
 
-## License
-This project is open-source under the [MIT License](LICENSE).
+[Jayesh Pandya](https://github.com/PandyaJayesh)
 
+🚀 Feel free to fork, contribute, or suggest improvements! 🤝
