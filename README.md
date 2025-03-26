@@ -17,7 +17,7 @@ A simple Android counter app using **Kotlin**.
 ## Installation
 
 Download *.apk* file from [Here](https://github.com/PandyaJayesh/Counter/tree/main/app/release).
-Download *.apk* file from [Here](https://github.com/PandyaJayesh/Counter/tree/main/app/release).
+
 
 ## File Structure
 ```plaintext
@@ -32,10 +32,10 @@ app/
 ```
 
 🎯 Contributors
-🎯 Contributors
+
 
 [Jayesh Pandya](https://github.com/PandyaJayesh)
-[Jayesh Pandya](https://github.com/PandyaJayesh)
+
 
 🚀 Feel free to fork, contribute, or suggest improvements! 🤝
-🚀 Feel free to fork, contribute, or suggest improvements! 🤝
+
