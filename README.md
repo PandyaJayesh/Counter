@@ -8,9 +8,12 @@ A simple Android counter app using **Kotlin** and **Fragments** to demonstrate U
 - Uses **fragments** for better modularity
 
 ## Screenshots
-![Counter App Screenshot](Screenshots/Screenshot_20250326-230907_Counter.jpg)
-![Counter App Screenshot](Screenshots/Screenshot_20250326-230921_Counter.jpg)
-![Counter App Screenshot](Screenshots/Screenshot_20250326-230932_Counter.jpg)
+
+
+| Screenshot 1 | Screenshot 2 | Screenshot 3 |
+|-------------|-------------|-------------|
+| ![Screenshot 1](Screenshots/Screenshot_20250326-230907_Counter.jpg) | ![Screenshot 2](Screenshots/Screenshot_20250326-230921_Counter.jpg) | ![Screenshot 3](Screenshots/Screenshot_20250326-230932_Counter.jpg) |
+
 
 ## Installation
 
