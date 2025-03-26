@@ -1,11 +1,10 @@
 # Counter App
 
-A simple Android counter app using **Kotlin** and **Fragments** to demonstrate UI updates, state persistence, and fragment-based architecture.
+A simple Android counter app using **Kotlin**.
 
 ## Features
 - Increment, decrement, and reset counter
 - Saves counter value using **SharedPreferences**
-- Uses **fragments** for better modularity
 
 ## Screenshots
 
